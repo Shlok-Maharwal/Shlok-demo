@@ -1,3 +1,4 @@
 # Shlok-demo
-This is my first Git Repository 
-Author - Shlok Maharwal 
+This is my first Git Repository.
+<br>
+Author - Shlok Maharwal
